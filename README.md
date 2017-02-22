@@ -1,6 +1,6 @@
 # Quake Buddy
 
-Quake Buddy is the most refined and well-commented project that I've published since graduating from Udacity's Android Basics Nanodegree on 10-Feb-2017. The most current/stable version of QuakeBuddy is 1.2. Quake Buddy can be downloaded from Google Play <a href="https://play.google.com/store/apps/details?id=com.gumgoose.app.quakebuddy" target="_BLANK">here</a>.
+Quake Buddy is a well-commented project that I've published since graduating from the Android Basics Nanodegree by Google on 10-Feb-2017. The most current/stable version of QuakeBuddy is 1.2. Quake Buddy can be downloaded from Google Play <a href="https://play.google.com/store/apps/details?id=com.gumgoose.app.quakebuddy" target="_BLANK">here</a>.
 
 "Quake Buddy allows you to discover how much alive Mother Nature really is. You can sort by most recent earthquakes and filter them by entering a time frame or minimum magnitude value. You can also activate the 'Tsunami Watch' theme to see basic Tsunami alerts developing so You stay on Your guard."
 
@@ -20,7 +20,7 @@ Quake Buddy is the most refined and well-commented project that I've published s
 - custom XML layouts for all sized screens
 - support for Android SDK 15 (4.0.3) and above
 
-## The future version(s) aim(s) to incorporate:
+## The future version aims to incorporate:
 - Butter Knife
 - RecyclerView instead of ListView
 - built-in Google Maps extension
