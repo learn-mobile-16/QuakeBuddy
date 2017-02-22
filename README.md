@@ -4,9 +4,9 @@ Quake Buddy is a refined and well-commented project that I've published to Googl
 
 "You can sort by most recent earthquakes and filter them by entering a time frame or minimum magnitude value. You can also activate the 'Tsunami Watch' theme to see basic Tsunami alerts developing so You stay on Your guard."
 
-<img src="https://raw.githubusercontent.com/learn-mobile-16/QuakeBuddy/master/artwork/v1.2-pic1.png" />
-<img src="https://raw.githubusercontent.com/learn-mobile-16/QuakeBuddy/master/artwork/v1.2-pic2.png" />
-<img src="https://raw.githubusercontent.com/learn-mobile-16/QuakeBuddy/master/artwork/v1.2-pic3.png" />
+<img src="https://raw.githubusercontent.com/learn-mobile-16/QuakeBuddy/master/artwork/v1.2-pic1.png" width="250" />
+<img src="https://raw.githubusercontent.com/learn-mobile-16/QuakeBuddy/master/artwork/v1.2-pic2.png" width="250" />
+<img src="https://raw.githubusercontent.com/learn-mobile-16/QuakeBuddy/master/artwork/v1.2-pic3.png" width="250" />
 
 ## This app features:
 - API integration, JSON parsing
