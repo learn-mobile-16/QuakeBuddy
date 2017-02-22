@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2017 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+
+    <string-array name="settings_time_period_labels">
+        <item>@string/settings_time_period_24_label</item>
+        <item>@string/settings_time_period_48_label</item>
+        <item>@string/settings_time_period_week_label</item>
+        <item>@string/settings_time_period_fortnight_label</item>
+    </string-array>
+
+    <string-array name="settings_time_period_values">
+        <item>@string/settings_time_period_24_value</item>
+        <item>@string/settings_time_period_48_value</item>
+        <item>@string/settings_time_period_week_value</item>
+        <item>@string/settings_time_period_fortnight_value</item>
+    </string-array>
+
+    <string-array name="settings_order_by_labels">
+        <item>@string/settings_order_by_magnitude_label</item>
+        <item>@string/settings_order_by_most_recent_label</item>
+    </string-array>
+
+    <string-array name="settings_order_by_values">
+        <item>@string/settings_order_by_magnitude_value</item>
+        <item>@string/settings_order_by_most_recent_value</item>
+    </string-array>
+
+    <string-array name="settings_time_display_labels">
+        <item>@string/settings_time_display_ago_label</item>
+        <item>@string/settings_time_display_standard_label</item>
+    </string-array>
+
+    <string-array name="settings_time_display_values">
+        <item>@string/settings_time_display_ago_value</item>
+        <item>@string/settings_time_display_standard_value</item>
+    </string-array>
+
+    <string-array name="settings_tsunami_watch_theme_labels">
+        <item>@string/settings_tsunami_watch_theme_off_label</item>
+        <item>@string/settings_tsunami_watch_theme_on_label</item>
+    </string-array>
+
+    <string-array name="settings_tsunami_watch_theme_values">
+        <item>@string/settings_tsunami_watch_theme_off_value</item>
+        <item>@string/settings_tsunami_watch_theme_on_value</item>
+    </string-array>
+
+</resources>

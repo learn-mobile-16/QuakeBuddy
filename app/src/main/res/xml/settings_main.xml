@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2017 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/settings_title">
+
+    <PreferenceCategory
+        android:title="@string/setting_category_filters">
+
+        <ListPreference
+            android:defaultValue="@string/settings_time_period_default"
+            android:entries="@array/settings_time_period_labels"
+            android:entryValues="@array/settings_time_period_values"
+            android:key="@string/settings_time_period_key"
+            android:title="@string/settings_time_period_label" />
+
+        <ListPreference
+            android:defaultValue="@string/settings_order_by_default"
+            android:entries="@array/settings_order_by_labels"
+            android:entryValues="@array/settings_order_by_values"
+            android:key="@string/settings_order_by_key"
+            android:title="@string/settings_order_by_label" />
+
+        <EditTextPreference
+            android:defaultValue="@string/settings_min_magnitude_default"
+            android:inputType="numberDecimal"
+            android:key="@string/settings_min_magnitude_key"
+            android:selectAllOnFocus="true"
+            android:title="@string/settings_min_magnitude_label" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/setting_category_display">
+
+        <ListPreference
+            android:defaultValue="@string/settings_time_display_default"
+            android:entries="@array/settings_time_display_labels"
+            android:entryValues="@array/settings_time_display_values"
+            android:key="@string/settings_time_display_key"
+            android:title="@string/settings_time_display_label"/>
+
+        <ListPreference
+            android:defaultValue="@string/settings_tsunami_watch_theme_default"
+            android:entries="@array/settings_tsunami_watch_theme_labels"
+            android:entryValues="@array/settings_tsunami_watch_theme_values"
+            android:key="@string/settings_tsunami_watch_theme_key"
+            android:title="@string/settings_tsunami_watch_theme_label"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
