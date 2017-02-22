@@ -1,9 +1,12 @@
 # Quake Buddy
 
-Quake Buddy is a refined and well-commented project that I published to Google Play after graduating from Udacity's Android Basics Nanodegree. The most current version of the app is 1.2 and lives here. Quake Buddy can be downloaded from the Play Store <a href="https://play.google.com/store/apps/details?id=com.gumgoose.app.quakebuddy" target="_blank">here</a>.
+Quake Buddy is a refined and well-commented project that I've published to Google Play since graduating from Udacity's Android Basics Nanodegree on 10-Feb-2017. The most current version of QuakeBuddy is 1.2. Quake Buddy can be downloaded from the Google Play <a href="https://play.google.com/store/apps/details?id=com.gumgoose.app.quakebuddy" target="_BLANK">here</a>.
 
-From Google Play:
 "You can sort by most recent earthquakes and filter them by entering a time frame or minimum magnitude value. You can also activate the 'Tsunami Watch' theme to see basic Tsunami alerts developing so You stay on Your guard."
+
+<img src="https://raw.githubusercontent.com/learn-mobile-16/QuakeBuddy/master/artwork/v1.2-pic1.png" />
+<img src="https://raw.githubusercontent.com/learn-mobile-16/QuakeBuddy/master/artwork/v1.2-pic2.png" />
+<img src="https://raw.githubusercontent.com/learn-mobile-16/QuakeBuddy/master/artwork/v1.2-pic3.png" />
 
 ## This app features:
 - API integration, JSON parsing
